@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "CryptoTracker AI",
+    "slug": "crypto-tracker-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0A0F"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cryptotracker.ai"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0F"
+      },
+      "package": "com.cryptotracker.ai"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
